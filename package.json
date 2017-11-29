@@ -2,7 +2,7 @@
   "name": "fetch-vs-xhr-perf",
   "version": "0.0.1",
   "scripts": {
-    "start": "http-server"
+    "start": "http-server -c-1"
   },
   "dependencies": {
     "benchmark": "^2.1.4",
